@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="lab2pkg_py" type="reset.py" name="reset_world">
+    </node>
+</launch>
